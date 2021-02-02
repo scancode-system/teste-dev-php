@@ -4,7 +4,7 @@ Olá caro desenvolvedor, nesse teste analisaremos seu conhecimento geral e inclu
 
 ## Instruções
 
-Você deve desenvolver uma API, utilizando PHP (Preferencialmente Laravel 8).
+Você deve desenvolver uma API, utilizando PHP (Framework Laravel 8).
 
 
 A escolha das bibliotecas, banco de dados, arquitetura, etc, fica a seu critério.
@@ -38,7 +38,7 @@ Sugerimos o retorno dessa 'mini api' nas seguinte urls:
 
 ### Front-End
 
-Para a segunda etapa do teste, você deverá desenvolver uma SPA (Single Page Application) e nela deve ser possível:
+Para a segunda etapa do teste, você deverá desenvolver uma SPA (Single Page Application) com Vue.js e nela deve ser possível:
 
 - Ver a lista de carros cadastrados
 - Criar um novo carro
